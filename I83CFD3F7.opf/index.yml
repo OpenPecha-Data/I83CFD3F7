@@ -1,0 +1,59 @@
+id: 8ab898d307064524a1018dec8f8c6444
+annotation_type: index
+revision: '00001'
+annotations:
+  68f146d75fe64d44a5e05e42bb7a6202:
+    base: 9DBF.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 122
+    - title: Preface
+      span:
+        start: 123
+        end: 155
+    - title: 'Chapter 1: Pramuditā'
+      span:
+        start: 156
+        end: 3858
+    - title: 'Chapter 2: Vimalā'
+      span:
+        start: 3859
+        end: 5943
+    - title: 'Chapter 3: Prabhākarī'
+      span:
+        start: 5944
+        end: 8747
+    - title: 'Chapter 4: Arciṣmatī'
+      span:
+        start: 8748
+        end: 9272
+    - title: 'Chapter 5: Sudurjayā'
+      span:
+        start: 9273
+        end: 9592
+    - title: 'Chapter 6: Abhimukhī'
+      span:
+        start: 9593
+        end: 52679
+    - title: 'Chapter 7: Dūraṃgamā'
+      span:
+        start: 52680
+        end: 52917
+    - title: 'Chapter 8: Acalā'
+      span:
+        start: 52918
+        end: 53665
+    - title: 'Chapter 9: Sādhumatī'
+      span:
+        start: 53666
+        end: 53887
+    - title: 'Chapter 10: Dharmameghā'
+      span:
+        start: 53888
+        end: 54255
+    - title: 'Chapter 11: buddhabhūmi'
+      span:
+        start: 54256
+        end: 67305

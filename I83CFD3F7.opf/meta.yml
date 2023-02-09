@@ -1,0 +1,16 @@
+id: I83CFD3F7
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:27:46.808834
+last_modified: 2023-02-10 00:27:46.808925
+source_metadata:
+  title: 'Candrakīrti: Madhyamakāvatāra'
+  language: en
+bases:
+  9DBF:
+    base_file: 9DBF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
